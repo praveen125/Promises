@@ -14,6 +14,7 @@ myPromise.then((res) => {
   console.log(res);
 });
 */
+//test
 
 function getData(method, url) {
   return new Promise(function (resolve, reject) {
